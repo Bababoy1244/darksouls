@@ -1,0 +1,69 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-image: url(1111.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    color: white;
+    position: 10px;
+}
+
+.header {
+    height: 60px;
+    margin: 10px;
+}
+
+nav ul li {
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px
+}
+
+ul li a {
+    color: white;
+    letter-spacing: 0.1rem;
+}
+
+ul li a:hover {
+    color: yellow;
+    text-decoration: underline;
+}
+
+.menu li {
+    float: left;
+    padding: 35px;
+}
+
+.menu li a {
+    text-decoration: none;
+}
+
+input[type”search] {
+    font-size: 17px;
+}
+
+.gifcaca {
+    position: fixed;
+    right: 50px;
+    top: 100px;
+}
+
+.gifpipi {
+    position: fixed;
+    right: 50px;
+    top: 100px;
+}
+
+.gifpopo {
+    position: fixed;
+    right: 50px;
+    top: 100px;
+}
+
+.gifdia {
+    position: fixed;
+    right: 50px;
+    top: 100px;
+}
